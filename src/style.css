@@ -1,5 +1,15 @@
-@import "bootstrap/dist/css/bootstrap.min.css";
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
 
-body{
-    background: blue;
+
+.divPadre {
+    box-shadow: 0 1rem 1rem black;
+    width: 500px;
+    height: 180px;
+    background-color: beige;
+    
 }
